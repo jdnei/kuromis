@@ -1,6 +1,8 @@
 
 # Kuromis库洛米机场官方地址（2026年7月13日更新）
 Kuromis库洛米机场官网地址</br>
+
+最新地址：[www.kurqq9.com](https://www.kurqq9.com/)</br>
 官方地址：[kuromis.com](https://www.kuromis.com/)</br>
 ## 简介
 Kuromis库洛米机场提供全球高速网络加速服务，覆盖多国节点，支持多平台客户端，兼顾稳定、低延迟与流媒体访问体验
