@@ -1,5 +1,4 @@
-# kuromis
-kuromis
+
 # Kuromis库洛米机场官方地址（2026年7月13日更新）
 Kuromis库洛米机场官网地址</br>
 官方地址：[kuromis.com](https://www.kuromis.com/)</br>
