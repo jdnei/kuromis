@@ -1,5 +1,5 @@
 
-# Kuromis库洛米机场官方地址(2026年8月1日更新)
+# Kuromis库洛米机场官方地址(2026年8月2日更新)
 Kuromis库洛米机场官网地址</br>
 
 最新地址：[www.kurqq9.com](https://www.kurqq9.com/)</br>
