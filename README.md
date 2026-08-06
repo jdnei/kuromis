@@ -1,9 +1,19 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
+
 
 # Kuromis库洛米机场官方地址(2026年8月6日更新)
 Kuromis库洛米机场官网地址</br>
 
-最新地址：[www.kurqq9.com](https://www.kurqq9.com/)</br>
-官方地址：[kuromis.com](https://www.kuromis.com/)</br>
+最新地址：[www.kurqq9.com](https://to.iix.im/klm02)</br>
+官方地址：[kuromis.com](https://to.iix.im/klm01)</br>
+
+2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
+## Telegram VPN 机场福利社 #AD
+[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
+
+[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
+
 ## 简介
 Kuromis库洛米机场提供全球高速网络加速服务，覆盖多国节点，支持多平台客户端，兼顾稳定、低延迟与流媒体访问体验
 ## 优势
