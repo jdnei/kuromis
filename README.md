@@ -2,7 +2,7 @@
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
 
-# Kuromis库洛米机场官方地址(2026年8月9日更新)
+# Kuromis库洛米机场官方地址(2026年8月10日更新)
 Kuromis库洛米机场官网地址</br>
 
 最新地址：[www.kurqq9.com](https://to.iix.im/klm02)</br>
