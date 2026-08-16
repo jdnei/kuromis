@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# Kuromis VPN Official Address (Updated August 15, 2026)
+# Kuromis VPN Official Address (Updated August 16, 2026)
 
 Kuromis VPN Official Website Address</br>
 
